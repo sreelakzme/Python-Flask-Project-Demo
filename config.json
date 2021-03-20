@@ -1,0 +1,15 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/personaldiary",
+    "prod_uri": "mysql://root:@localhost/personaldiary",
+    "fb_url": "https://www.facebook.com/lakshmi.menon.357284/",
+    "tw_url": "https://twitter.com/sreelakzme",
+    "gh_url": "https://github.com/sreelakzme",
+    "gmail-user" : "shreelakshmi76@gmail.com",
+    "gmail-password" : "dundumol",
+    "no-of-post": 5
+
+  }
+}
